@@ -1,2 +1,6 @@
 # tomhungV2
-Rebuild personal website
+
+Tom Hung Personal website v2
+
+- AngularJS
+- MaterializeCss
